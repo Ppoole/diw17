@@ -1,0 +1,29 @@
+header{
+    margin-left:10%;
+    margin-top: 0;
+   line-height: 1vh;
+}
+
+a:link{
+    color: black;
+    text-decoration: none;
+}
+a:visited{
+    color: red;
+    text-decoration: none;
+
+}
+
+.cabezera {
+    margin-top: 0;
+}
+
+.links {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    flex-wrap: wrap;
+    column-gap: 3%;
+
+
+  }
